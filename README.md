@@ -52,7 +52,7 @@ Flow :
 4.	Visualization updates in real time
 STEPS TO INSTALL :
 Step 1 : Clone Repository
-git clone 
+git clone: https://github.com/saranshmathur567-star/Path-finding-visualizer-.git
 cd pathfinding-visualizer
 Step 2 : Install Dependencies
 pip install pygame
